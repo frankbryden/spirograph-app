@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spirograph</string>
+    <string name="inner_seek">Inner Radius</string>
+    <string name="outer_seek">Outer Radius</string>
+    <string name="pen_pos">Pen Position</string>
+    <string name="dot_count">Dot Count</string>
+    <string name="animateStr">Animate ?</string>
+</resources>
